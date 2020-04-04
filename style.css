@@ -1,0 +1,163 @@
+html {
+    scroll-behavior: smooth;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    height: 110px;
+    }
+
+#header1 {
+   background-color: rgb(255, 255, 255);
+    text-align: left;
+    font-family: "roboto";
+    font-size: 30px;
+    color: rgb(49, 49, 49);
+}
+.menu {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(145, 145, 145);
+    font-size: 16px;
+    background-color: rgb(255, 255, 255);
+    width: 800px;
+    height: 400px;
+}
+
+.menu-ref-main {
+    text-decoration: none;
+}
+
+.menu-ref {
+    text-align: right;
+    text-decoration: none;
+    
+}
+
+.ref {
+    text-decoration: none;
+    color: rgb(177, 177, 177);
+}
+#vkontakte {
+    color: rgb(84, 85, 156);
+}
+
+#contacts {
+    color: rgb(87, 64, 64); 
+}
+
+#telegram {
+    color: rgb(113, 188, 190);
+}
+
+#phone {
+    color: rgb(28, 119, 28);
+}
+
+#instagram {
+    color: rgb(197, 56, 56);
+}
+
+.line {
+    width: 800px;
+    background-color: rgb(241, 241, 241);
+    
+    
+}
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-size: 28px;
+    margin-left: 50px;
+    height: 10px;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif; 
+    font-size: 48px;
+}
+
+.main-text {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(145, 145, 145);
+    width: 700px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 1px;
+   
+}
+
+
+#city {
+    width: 400px;
+}
+
+.p-text {
+    margin-left: 10px;
+    text-align: center;
+}
+
+h3 {
+    margin-left: 80px;
+}
+
+.work-text {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(145, 145, 145);
+    width: 700px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 1px;
+}
+.icon-ok {
+    color: rgb(40, 207, 40);
+}
+
+.per-text {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(145, 145, 145);
+    width: 700px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 1px;
+}
+
+.menu-down {
+    text-align: right;
+    text-decoration: none;
+    margin-top: 30px;    
+}
+
+.icon-fire {
+    color: rgb(206, 85, 85);
+}
+.icon-up {
+    font-size: 0.9em;
+    color: rgb(65, 160, 65);
+}
+
+.icon-id-card {
+    color: rgb(106, 79, 202);
+}
+
+.icon-dollar {
+    color: rgb(39, 158, 45);
+}
+
+.icon-chat {
+    color: rgb(146, 50, 64);
+}
+
+.icon-microchip {
+    color: rgb(74, 73, 170);
+}
+
+.text {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(145, 145, 145);
